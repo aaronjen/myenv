@@ -2,10 +2,6 @@
 export NVM_DIR="$HOME/.nvm"
 . "/usr/local/opt/nvm/nvm.sh"
 
-
-alias clean="clear && printf '\e[3J'"
-
-
 # Path to your oh-my-zsh installation.
 export ZSH=$HOME/.oh-my-zsh
 export LANG=en_US.UTF-8
