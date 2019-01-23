@@ -24,6 +24,7 @@ nvm install --lts
 ```bash
 code --install-extension codezombiech.gitignore
 code --install-extension dbaeumer.vscode-eslint
+code --install-extension eamodio.gitlens
 code --install-extension ecmel.vscode-html-css
 code --install-extension formulahendry.auto-close-tag
 code --install-extension formulahendry.auto-rename-tag
@@ -34,9 +35,6 @@ code --install-extension kumar-harsh.graphql-for-vscode
 code --install-extension liximomo.sftp
 code --install-extension mikestead.dotenv
 code --install-extension ms-python.python
-code --install-extension octref.vetur
-code --install-extension Orta.vscode-jest
 code --install-extension sleistner.vscode-fileutils
-code --install-extension taichi.react-beautify
 code --install-extension xabikos.ReactSnippets
 ```
