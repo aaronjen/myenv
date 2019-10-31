@@ -17,7 +17,7 @@ my mac environment
 brew install nvm
 
 # node
-nvm install --lts
+nvm install 10.15.3
 ```
 
 # code extensions
